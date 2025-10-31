@@ -1,0 +1,49 @@
+<scheme name="AbsenceOfBlue" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2025.2.4.0.0</property>
+    <property name="originalScheme">AbsenceOfBlue</property>
+  </metaInfo>
+  <colors>
+    <option name="ANNOTATIONS_COLOR" value="37372F" />
+    <option name="CARET_ROW_COLOR" value="232312" />
+    <option name="DELETED_LINES_COLOR" value="767565" />
+    <option name="EDITOR_GUTTER_BACKGROUND" value="232312" />
+    <option name="FILESTATUS_ADDED" value="C3E887" />
+    <option name="FILESTATUS_DELETED" value="F77669" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="F89580" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F780BF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F780BF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F780BF" />
+    <option name="FILESTATUS_MERGED" value="9580FF" />
+    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767665" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="586345" />
+    <option name="MODIFIED_LINES_COLOR" value="495237" />
+    <option name="SELECTION_BACKGROUND" value="FFCC00" />
+    <option name="SELECTION_FOREGROUND" value="000000" />
+  </colors>
+  <attributes>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="b7b1b1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d1ccc7" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
