@@ -38,7 +38,6 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
       "background": "priBG",
       "selectionForeground": "priFG",
       "selectionInactiveForeground": "priFG",
@@ -81,6 +80,7 @@
       "endBackground": "dGreen",
       "focusedBorderColor": "secAccentColor",
       "disabledBorderColor": "dGreen",
+      "shadowColor": "black",
       "default": {
         "foreground": "priFG",
         "startBackground": "selectionBG",
