@@ -72,6 +72,21 @@
         "background": "drYellow"
       }
     },
+    "List.dropLineColor": "mGreen",
+    "Menu.acceleratorForeground": "mGreen",
+    "MenuBar.shadow": "lGreen",
+    "PasswordField.inactiveForeground": "lGreen",
+    "RadioButtonMenuItem.acceleratorForeground": "mGreen",
+    "Slider": {
+      "focus": "lYellow",
+      "shadow": "dYellow"
+    },
+    "SplitPane.shadow": "mGreen",
+    "Hyperlink.linkColor": "lGreen",
+    "DragAndDrop.borderColor": "mGreen",
+    "CombinedDiff.BlockBorder.selectedActiveColor": "mGreen",
+    "CheckBox.select": "lGreen",
+    "CheckBoxMenuItem.acceleratorForeground": "mGreen",
     "Button": {
       "foreground": "priFG",
       "startBorderColor": "selectionBG",
@@ -92,7 +107,10 @@
       }
     },
     "SegmentedButton.focusedSelectedButtonColor": "dGreen",
-    "TabbedPane.focusColor": "dGreen",
+    "TabbedPane": {
+
+    },
+
     "DefaultTabs": {
       "hoverBackground": "black"
     },
@@ -147,7 +165,7 @@
       "hoverSelectedInactiveBackground": "edrYellow"
     },
     "FileColor": {
-      "Blue": "#344f54",
+      "Blue": "#455434",
       "Green": "#344535",
       "Orange": "#533f30",
       "Yellow": "#4f4b41",
@@ -235,6 +253,10 @@
       }
     },
     "ScrollBar": {
+      "thumbShadow": "dGreen",
+      "thumb": "mGreen",
+      "thumbDarkShadow": "dGreen",
+      "trackHighlight": "neutral50pGrey",
       "Mac": {
         "hoverThumbColor": "secAccentColor",
         "Transparent": {
@@ -262,29 +284,46 @@
       "background": "secBG"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBG",
       "hoverColor": "hoverBG",
       "underlineColor": "secAccentColor",
-      "contentAreaColor": "hoverBG"
+      "contentAreaColor": "hoverBG",
+      "focus": "hoverBG"
     },
     "Table": {
       "gridColor": "dGreen",
       "hoverBackground": "selectionBG",
-      "lightSelectionBackground": "secBG"
+      "lightSelectionBackground": "secBG",
+      "dropLineColor": "mGreen",
+      "sortIconColor": "lrGreen"
     },
     "TableHeader": {
-      "bottomSeparatorColor": "separatorColor"
+      "bottomSeparatorColor": "separatorColor",
+      "focusCellBackground": "lrGreen"
     },
     "TextField": {
-      "background": "secBG"
+      "background": "secBG",
+      "inactiveForeground": "lGreen",
+      "darkShadow": "neutral80pGrey"
     },
+    "TextArea.inactiveForeground": "lrGreen",
+    "TextPane.inactiveForeground": "lGreen",
     "ToggleButton": {
       "onBackground": "mGreen",
       "onForeground": "hoverBG",
       "offBackground": "selectionBG",
       "offForeground": "hoverBG",
       "buttonColor": "priFG"
+    },
+    "ToolBar": {
+      "darkShadow": "neutral80pGrey",
+      "floatingForeground": "lGreen",
+      "shadow": "lrGreen"
+    },
+    "Tooltip.Learning": {
+      "spanBackground": "dGreen",
+      "stepNumberForeground": "lGreen"
     },
     "ToolWindow": {
       "Button": {
@@ -325,6 +364,10 @@
         "tagIconColor": "priAccentColor",
         "otherIconColor": "neutral50pGrey"
       },
+      "HgLog": {
+        "localTagIconColor": "lGreen",
+        "mqTagIconColor": "dGreen"
+      },
       "Log": {
         "Commit": {
           "hoveredBackground": "selectionBG",
@@ -345,7 +388,8 @@
         "selectionBackground": "secBG",
         "selectionInactiveBackground": "secBG",
         "actions": {
-          "background": "secBG"
+          "background": "secBG",
+          "selectionBorderColor": "mGreen"
         }
       },
       "Details": {
@@ -359,7 +403,7 @@
     "ColorPalette": {
       "Actions.Blue": "mYellow",
       "Objects.Blue": "mYellow",
-      "Checkbox.Foreground.Selected.Dark": "#f8f8f2",
+      "Checkbox.Foreground.Selected.Dark": "white",
       "Checkbox.Border.Default.Dark": "mYellow",
       "Checkbox.Border.Selected.Dark": "mYellow",
       "Checkbox.Border.Disabled.Dark": "mGreen",
