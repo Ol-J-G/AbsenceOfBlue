@@ -2,6 +2,7 @@
   "name": "AbsenceOfBlue",
   "author": "Ol-J-G",
   "dark": true,
+  "editorScheme": "/theme/AbsenceOfBlue_EditorScheme.xml",
   "colors": {
     "black": "#000000",
     "white": "#ffffff",
@@ -107,10 +108,6 @@
       }
     },
     "SegmentedButton.focusedSelectedButtonColor": "dGreen",
-    "TabbedPane": {
-
-    },
-
     "DefaultTabs": {
       "hoverBackground": "black"
     },
@@ -398,8 +395,26 @@
     }
   },
   "icons": {
-    "/actions/execute.svg": "/run.svg",
     "/nodes/class.svg": "/icons/class.svg",
+    "/nodes/interface.svg": "/icons/interface.svg",
+    "/nodes/record.svg": "/icons/record.svg",
+    "/nodes/enum.svg": "/icons/enum.svg",
+    "/nodes/annotation.svg": "/icons/annotation.svg",
+    "/nodes/jdk.svg": "/icons/jdk.svg",
+    "/nodes/module.svg": "/icons/module.svg",
+    "/nodes/sourceRoot.svg": "/icons/sourceRoot.svg",
+    "/nodes/libraryFolder.svg": "/icons/libraryFolder.svg",
+    "/run/runToCurser.svg": "/icons/runToCursor.svg",
+    "/actions/runToCurser.svg": "/icons/runToCursor.svg",
+    "/fileTypes/image.svg": "/icons/image.svg",
+    "/fileTypes/scratch.svg": "/icons/scratch.svg",
+    "/fileTypes/scratches.svg": "/icons/scratches.svg",
+    "/fileTypes/json.svg": "/icons/json.svg",
+    "/fileTypes/xml.svg": "/icons/xml.svg",
+    "/fileTypes/archive.svg": "/icons/archive.svg",
+    "/fileTypes/markdown.svg": "/icons/markdown.svg",
+    "/build/mavenProject.svg": "/icons/maven.svg",
+
     "ColorPalette": {
       "Actions.Blue": "mYellow",
       "Objects.Blue": "mYellow",
