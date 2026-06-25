@@ -1,7 +1,8 @@
 <scheme name="AbsenceOfBlue" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">2025.3.4.7</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2025.3.4.0.0</property>
+    <property name="originalScheme">AbsenceOfBlue</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="37372F" />
@@ -81,6 +82,16 @@
         <option name="FOREGROUND" value="bcd35f" />
         <option name="EFFECT_COLOR" value="677821" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffcc00" />
+      </value>
+    </option>
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f14682" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -198,7 +209,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="faf146" />
+        <option name="FOREGROUND" value="faeb46" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -230,7 +241,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="812525" />
+        <option name="FOREGROUND" value="c47534" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -243,6 +254,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="f5903c" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
@@ -259,7 +275,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9a51f6" />
+        <option name="FOREGROUND" value="7b51c2" />
         <option name="BACKGROUND" value="412178" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="9f3dff" />
@@ -275,6 +291,17 @@
     <option name="GRAMMAR_ERROR">
       <value />
     </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ffcc00" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bcd35f" />
@@ -288,18 +315,25 @@
         <option name="ERROR_STRIPE_COLOR" value="ffdd00" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b389c5" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="89a02c" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f55959" />
+      </value>
+    </option>
+    <option name="KOTLIN_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e85656" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -336,7 +370,7 @@
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="523d76" />
+        <option name="FOREGROUND" value="613d76" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -374,7 +408,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="deb614" />
+        <option name="FOREGROUND" value="ffcc00" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ffcc00" />
       </value>
@@ -382,6 +416,8 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9dff00" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -414,7 +450,16 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9f3dff" />
-        <option name="EFFECT_COLOR" value="9a51f6" />
+      </value>
+    </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e53e3e" />
       </value>
     </option>
   </attributes>
