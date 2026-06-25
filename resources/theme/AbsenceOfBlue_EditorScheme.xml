@@ -1,8 +1,7 @@
 <scheme name="AbsenceOfBlue" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2025.2.4.0.0</property>
-    <property name="originalScheme">AbsenceOfBlue</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2025.3.4.7</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="37372F" />
@@ -101,7 +100,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="fa4646" />
+        <option name="FOREGROUND" value="ff2300" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -199,7 +198,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="fa4646" />
+        <option name="FOREGROUND" value="faf146" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -231,7 +230,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="a22d2d" />
+        <option name="FOREGROUND" value="812525" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -260,10 +259,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c83737" />
-        <option name="BACKGROUND" value="782121" />
+        <option name="FOREGROUND" value="9a51f6" />
+        <option name="BACKGROUND" value="412178" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="ERROR_STRIPE_COLOR" value="9f3dff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -287,6 +286,14 @@
       <value>
         <option name="EFFECT_COLOR" value="ffdd00" />
         <option name="ERROR_STRIPE_COLOR" value="ffdd00" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="b389c5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -327,6 +334,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="523d76" />
+      </value>
+    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="677821" />
@@ -362,14 +374,14 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffcc00" />
+        <option name="FOREGROUND" value="deb614" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ffcc00" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c83737" />
+        <option name="FOREGROUND" value="9dff00" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -397,6 +409,12 @@
         <option name="BACKGROUND" value="501616" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="501616" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9f3dff" />
+        <option name="EFFECT_COLOR" value="9a51f6" />
       </value>
     </option>
   </attributes>
